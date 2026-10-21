@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'core/theme/app_theme.dart';
-import 'features/auth/screens/login_screen.dart';
-import 'features/creator/screens/creator_upload_screen.dart';
-import 'features/inbox/screens/inbox_screen.dart';
-import 'features/music/screens/music_player_screen.dart';
-import 'features/pods/screens/pods_screen.dart';
-import 'features/wallet/screens/wallet_screen.dart';
-import 'features/videos/screens/video_player_screen.dart';
+import 'app_theme.dart';
+import 'login_screen.dart';
+import 'creator_upload_screen.dart';
+import 'inbox_screen.dart';
+import 'music_player_screen.dart';
+import 'pods_screen.dart';
+import 'wallet_screen.dart';
+import 'video_player_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
