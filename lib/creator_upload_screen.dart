@@ -4,7 +4,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:url_launcher/url_launcher.dart';
-import '../../../core/theme/app_theme.dart';
+import 'app_theme.dart';
 
 class CreatorUploadScreen extends StatefulWidget {
   final int userId;
