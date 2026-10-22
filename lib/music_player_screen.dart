@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../core/theme/app_theme.dart';
+import 'app_theme.dart';
 
 class MusicPlayerScreen extends StatefulWidget {
   final String songTitle;
