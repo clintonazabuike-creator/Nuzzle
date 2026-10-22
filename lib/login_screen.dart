@@ -110,7 +110,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       padding: const EdgeInsets.symmetric(vertical: 16),
                     ),
                     child: _isLoading
-                        const CircularProgressIndicator(color: Colors.white)
+                        ? const CircularProgressIndicator(color: Colors.white)
                         : const Text('Login', style: TextStyle(fontSize: 16, color: Colors.white)),
                   ),
                 ],
