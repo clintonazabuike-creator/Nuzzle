@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../../core/theme/app_theme.dart';
+import 'app_theme.dart';
+
 
 class VideoPlayerScreen extends StatefulWidget {
   final String videoTitle;
