@@ -140,7 +140,7 @@ class _MainNavigationState extends State<MainNavigation> {
                         child: Icon(Icons.play_arrow, color: Colors.white, size: 30),
                       ),
                     ),
-                  ],
+                  ),
                   Padding(
                     padding: const EdgeInsets.all(14.0),
                     child: Row(
