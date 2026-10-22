@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import '../../../core/theme/app_theme.dart';
+import 'app_theme.dart';
 import 'login_screen.dart';
 
 class RegisterScreen extends StatefulWidget {
