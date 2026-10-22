@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../core/theme/app_theme.dart';
+import 'app_theme.dart';
 
 class InboxScreen extends StatelessWidget {
   const InboxScreen({super.key});
